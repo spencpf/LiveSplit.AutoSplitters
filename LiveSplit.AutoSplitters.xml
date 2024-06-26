@@ -22203,4 +22203,14 @@
         <Type>Script</Type>
         <Description>Auto splitter by Niko Salocin</Description>
      </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bionic Commando (2009)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/spencpf/Autosplitter-BC09-by-koutyy/main/bc_auto.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Streetbackguy and koutyy</Description>
+    </AutoSplitter>
 </AutoSplitters>
